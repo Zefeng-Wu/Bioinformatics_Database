@@ -8,4 +8,12 @@
  *2. Enhancer databases*
 
        1. EnhancerAtlas: http://www.enhanceratlas.org/
+       
+ *3. Transcription factor databases*
+ 
+       1. Jaspar
+       2. HOCOMOCO
+       3. Factorbook
+       4. Animal TFDB3.0
+       
     
