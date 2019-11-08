@@ -8,6 +8,7 @@
  *2. Enhancer databases*
 
        1. EnhancerAtlas: http://www.enhanceratlas.org/
+       简介：Currently, the updated database contains 13,494,603 enhancers for 586 tissue/cell types. 
        
  *3. Transcription factor databases*
  
