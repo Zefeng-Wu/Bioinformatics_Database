@@ -10,6 +10,9 @@
        1. EnhancerAtlas: http://www.enhanceratlas.org/
        简介：Currently, the updated database contains 13,494,603 enhancers for 586 tissue/cell types. 
        
+       2 EnhancerDB
+       简介：该数据库包含了在41个组织/细胞系中共识别的116278个增强子，也包含了在VISTA和FANTOM5中增强子的数据（VISTA是由人和小鼠中经过实验验证的增强子组成的数据库，FANTOM5是通过双向转录RNA的测定，利用基因表达的cap分析来定义增强子的一个项目）。目前，数据库还包含了41个正常组织和细胞系中的490个TF，1726个miRNA，23334个基因和11381519个SNP。总共识别了131054581对TF-增强子，17059对增强子-miRNA和318993对增强子-基因的调控关系。此外，在41个组织/细胞系中发现了4039558对TF-miRNA和1059695对TF-基因的调控关系（数据源和流程详见于下图）。
+       
  *3. Transcription factor databases*
  
        1. Jaspar
