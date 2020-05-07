@@ -21,7 +21,11 @@
        4. Animal TFDB3.0
        5. PlantTFDB (植物)
        
- *4. Ensemble plants
+ *4. Ensemble plants (批量下载)
  
     rsync -av rsync://ftp.ensemblgenomes.org/all/pub/plants/current/fasta/*/pep/*pep.all.fa.gz ./
-    
+    rsync://ftp.ensembl.org/ensembl/pub/current_embl/
+    rsync://ftp.ensemblgenomes.org/all/pub/protists/current/
+    rsync://ftp.ensemblgenomes.org/all/pub/plants/current/
+    rsync://ftp.ensemblgenomes.org/all/pub/fungi/current/
+    rsync://ftp.ensemblgenomes.org/all/pub/metazoa/current/
