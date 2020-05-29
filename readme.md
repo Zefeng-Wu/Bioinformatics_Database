@@ -29,3 +29,6 @@
     rsync://ftp.ensemblgenomes.org/all/pub/plants/current/
     rsync://ftp.ensemblgenomes.org/all/pub/fungi/current/
     rsync://ftp.ensemblgenomes.org/all/pub/metazoa/current/
+
+*5. 拟南芥蛋白组、转录组
+http://athena.proteomics.wzw.tum.de:5002/master_arabidopsisshiny/
