@@ -30,5 +30,9 @@
     rsync://ftp.ensemblgenomes.org/all/pub/fungi/current/
     rsync://ftp.ensemblgenomes.org/all/pub/metazoa/current/
 
-*5. 拟南芥蛋白组、转录组
-http://athena.proteomics.wzw.tum.de:5002/master_arabidopsisshiny/
+ *5. 拟南芥蛋白组、转录组
+ 
+     http://athena.proteomics.wzw.tum.de:5002/master_arabidopsisshiny/
+ *6  大豆数据库
+ 
+     https://soybase.org/soyseq/
